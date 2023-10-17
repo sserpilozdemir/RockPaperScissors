@@ -1,0 +1,9 @@
+org/game/Main.class
+org/game/gaming/Calculator$1.class
+org/game/model/Move.class
+org/game/gaming/Calculator.class
+org/game/gaming/Game.class
+org/game/model/Winner.class
+org/game/interfaces/Player.class
+org/game/players/MachinePlayer.class
+org/game/players/HumanPlayer.class
